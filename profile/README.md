@@ -1,8 +1,13 @@
 # 👋️ Welcome on YzyFlow's GitHub page!
 
+
 ## More information about our company:
-🚞️ Onboarding guide for newcomers
+
+- [🚞️ Onboarding guide for newcomers]()
+- [📰️ Press kit]()
+- [🎨️ Our styleguide]() 
 
 ## Get in touch!
-💻 https://yzyflow.com
-✉️ info@yzyflow.com
+
+- 💻 https://yzyflow.com
+- ✉️ info@yzyflow.com

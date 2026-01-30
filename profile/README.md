@@ -1,4 +1,4 @@
-# 👋️ Welcome on YzyFlow's GitHub page!
+# 👋️ Welcome on YZY flow's GitHub page!
 
 
 ## More information about our company:
